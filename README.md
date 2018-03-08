@@ -144,16 +144,3 @@ These are the exam objectives you review and understand.
 #### Describe the purpose of Code Manager
 
 * [Managing code with Code Manager](https://docs.puppet.com/pe/2016.2/code_mgr.html)
-
-## Puppet Courses and Training
-
-Here are courses you can enroll to get up to speed with Puppet.
-
-### Official
-
-* [Puppet Fundamentals instructor-led training](https://learn.puppet.com/instructor-led-training/puppet-fundamentals)
-* [Puppet Practitioner instructor-led training](https://learn.puppet.com/instructor-led-training/puppet-practitioner)
-
-### Third Party
-* [Learning Puppet DevOps Deployment (Puppet Professional Cert)](https://linuxacademy.com/devops/training/course/name/learning-puppet)
-* [Puppet Fundamentals for Systems Administrators](http://www.pluralsight.com/courses/puppet-system-administrators-fundamentals)
