@@ -118,17 +118,17 @@ These are the exam objectives you review and understand.
 * [PuppetDB Overview](http://docs.puppetlabs.com/puppetdb/4.1/)
 
 #### Demonstrate knowledge of Hiera
-* [Hiera 1: Overview](http://docs.puppetlabs.com/hiera/1/)
-* [Hiera 1: installation](http://docs.puppetlabs.com/hiera/1/installing.html)
-* [Configuration and hiera.yaml](https://docs.puppetlabs.com/hiera/1/configuring.html)
-* [Hierachies](https://docs.puppetlabs.com/hiera/1/hierarchy.html)
-* [Lookup Types](https://docs.puppetlabs.com/hiera/1/lookup_types.html)
-* [Writing Data Sources](https://docs.puppetlabs.com/hiera/1/data_sources.html)
-* [Interpolation Tokesn, Variables and Lookup Functions](https://docs.puppetlabs.com/hiera/1/variables.html)
-* [Usage with Puppet](https://docs.puppetlabs.com/hiera/1/puppet.html)
-* [Complete Example](https://docs.puppetlabs.com/hiera/1/complete_example.html)
-* [Usage on the Commandline](https://docs.puppetlabs.com/hiera/1/command_line.html)
-* [Writing New Backends](https://docs.puppetlabs.com/hiera/1/custom_backends.html)
+* [Hiera 1: Overview](http://docs.puppetlabs.com/hiera/3/)
+* [Hiera 1: installation](http://docs.puppetlabs.com/hiera/3/installing.html)
+* [Configuration and hiera.yaml](https://docs.puppetlabs.com/hiera/3/configuring.html)
+* [Hierachies](https://docs.puppetlabs.com/hiera/3/hierarchy.html)
+* [Lookup Types](https://docs.puppetlabs.com/hiera/3/lookup_types.html)
+* [Writing Data Sources](https://docs.puppetlabs.com/hiera/3/data_sources.html)
+* [Interpolation Tokesn, Variables and Lookup Functions](https://docs.puppetlabs.com/hiera/3/variables.html)
+* [Usage with Puppet](https://docs.puppetlabs.com/hiera/3/puppet.html)
+* [Complete Example](https://docs.puppetlabs.com/hiera/3/complete_example.html)
+* [Usage on the Commandline](https://docs.puppetlabs.com/hiera/3/command_line.html)
+* [Writing New Backends](https://docs.puppetlabs.com/hiera/3/custom_backends.html)
 
 #### Describe the usage of MCollective
 * [Mcollective Collective](http://docs.puppetlabs.com/mcollective/)
